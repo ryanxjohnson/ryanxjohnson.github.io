@@ -1,0 +1,14 @@
+---
+layout: base
+selected-link: posts
+title: Ryan Johnson - Posts
+---
+
+<ul class="post-list">
+    {% for post in site.posts %}
+    <a href="{{ post.url }}"><li>
+        <h2>{{ post.title }}</h2>
+        <span class="metadata">{{ post.date | date_to_string }} • {{ post.content | reading_time }}</span>
+    </li></a>
+    {% endfor %}
+</ul>

@@ -1,0 +1,7 @@
+RewriteEngine On
+
+# 01 redirects
+RewriteRule ^01/tutorial/?$ /posts/2014/09/29/an-introduction-to-binary-numbers/ [R=301,NC]
+RewriteRule ^01/marketing/?$ /projects/01/marketing.html [R=301,NC]
+
+RewriteRule ^01/?$ https://itunes.apple.com/us/app/01-binary-number-training/id915723834?ls=1&mt=8 [R=301,NC]

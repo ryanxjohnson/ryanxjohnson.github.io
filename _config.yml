@@ -1,0 +1,9 @@
+permalink: /posts/:year/:month/:day/:title/
+imgdir: /posts/img
+
+sass:
+    sass_dir: style
+
+name: Ryan Johnson's Posts
+description: Computer Science and other things.
+url: http://ryanxjohnson.com/posts/

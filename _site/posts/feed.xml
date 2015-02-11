@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- https://github.com/snaptortoise/jekyll-rss-feeds -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Ryan Johnson&#39;s Posts</title>
+        <description>Computer Science and other things.</description>      
+        <link>http://ryanxjohnson.com/posts/</link>
+        <atom:link href="http://ryanxjohnson.com/posts//feed.xml" rel="self" type="application/rss+xml" />
+        
+    </channel>
+</rss>
