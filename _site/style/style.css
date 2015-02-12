@@ -92,7 +92,7 @@ ul {
       display: block; } }
 
 .header {
-  background-color: #1E1E20;
+  $header-bg-color: #3A5D9D; //#1E1E20;
   color: #fefefe;
   min-height: 44px; }
   .header .container h1 {
