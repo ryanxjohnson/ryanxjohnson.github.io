@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Where to start
+date: 2015-03-06 08:00:00
 ---
 
 As a new developer, it's slightly overwhelming to pick a certain area to focus and develop skills. With the availability of new technology growing rapidly, I'm like a kid in a toy store - except the toys are more complex.
