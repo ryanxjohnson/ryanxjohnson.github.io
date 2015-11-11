@@ -9,6 +9,17 @@
         
         <item>
             <title>Second Post</title>
+            <description>&lt;p&gt;This is a second post.&lt;/p&gt;
+
+&lt;p&gt;Another paragraph.&lt;/p&gt;
+</description>
+            <pubDate>Wed, 11 Nov 2015 02:00:00 -0600</pubDate>
+            <link>http://ryanxjohnson.com/posts//posts/2015/11/11/SecondPost/</link>
+            <guid isPermaLink="true">http://ryanxjohnson.com/posts//posts/2015/11/11/SecondPost/</guid>
+        </item>
+        
+        <item>
+            <title>Second Post</title>
             <description>This is a second post.</description>
             <pubDate>Wed, 11 Nov 2015 02:00:00 -0600</pubDate>
             <link>http://ryanxjohnson.com/posts//posts/2015/11/11/SecondPost/</link>
