@@ -8,6 +8,14 @@
         <atom:link href="http://ryanxjohnson.com/posts//feed.xml" rel="self" type="application/rss+xml" />
         
         <item>
+            <title>Second Post</title>
+            <description>This is a second post.</description>
+            <pubDate>Wed, 11 Nov 2015 02:00:00 -0600</pubDate>
+            <link>http://ryanxjohnson.com/posts//posts/2015/11/11/SecondPost/</link>
+            <guid isPermaLink="true">http://ryanxjohnson.com/posts//posts/2015/11/11/SecondPost/</guid>
+        </item>
+        
+        <item>
             <title>Where to Start</title>
             <description>&lt;p&gt;As a new developer, it’s slightly overwhelming to pick a certain area to focus and develop skills. With the availability of new technology growing rapidly, I’m like a kid in a toy store - except the toys are more complex.&lt;/p&gt;
 
