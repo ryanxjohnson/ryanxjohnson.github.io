@@ -8,25 +8,25 @@
         <atom:link href="http://ryanxjohnson.com/posts//feed.xml" rel="self" type="application/rss+xml" />
         
         <item>
-            <title>Second Post</title>
-            <description>&lt;p&gt;This is a second post.&lt;/p&gt;
+            <title>First Job</title>
+            <description>&lt;p&gt;I start my first developer job in a few weeks. This is exciting, because this is why my end goal was going into college. I’ve been brushing up on C# and JavaScript over the past couple of weeks so I can be productive starting out.&lt;/p&gt;
 
-&lt;p&gt;Another paragraph.&lt;/p&gt;
+&lt;p&gt;Wish me luck.&lt;/p&gt;
 </description>
             <pubDate>Wed, 11 Nov 2015 02:00:00 -0600</pubDate>
-            <link>http://ryanxjohnson.com/posts//posts/2015/11/11/SecondPost/</link>
-            <guid isPermaLink="true">http://ryanxjohnson.com/posts//posts/2015/11/11/SecondPost/</guid>
+            <link>http://ryanxjohnson.com/posts//posts/2015/11/11/FirstJob/</link>
+            <guid isPermaLink="true">http://ryanxjohnson.com/posts//posts/2015/11/11/FirstJob/</guid>
         </item>
         
         <item>
             <title>Where to Start</title>
-            <description>&lt;p&gt;As a new developer, it’s slightly overwhelming to pick a certain area to focus and develop skills. With the availability of new technology growing rapidly, I’m like a kid in a toy store - except the toys are more complex.&lt;/p&gt;
+            <description>&lt;p&gt;As a new grad, it’s slightly overwhelming to pick a technology and become an expert in it. Not only are there many technologies, but the complexity and relevance of each differs. I appreciate the things tech can do, and I’m determined to find out what I can do. I’m like a kid in a toy store, but the toys are complex and will shoot you in the foot.&lt;/p&gt;
 
-&lt;p&gt;In college, we not only learned Computer Science theory, but engaged with current technology and created technology. In once Software Engineering course, we even had a real customer with real system requirements.&lt;/p&gt;
+&lt;p&gt;In college, we not only learned Computer Science theory, but engaged with current technology and created technology. In one Software Engineering course, we even had a real customer with real system requirements.&lt;/p&gt;
 
-&lt;p&gt;It’s easy to become exposed to many technologies in a short time frame, which I have done. Now it’s up to me to determine my path. How can I best contribute to the tech world? Is it embedded software, back-end database design, software architecture, or even UI? Should I focus on Web Applications or Mobile friendly? Should I involve hardware into my creations or strictly software? I consider myself more middle-ware and front-end design, but I’m not discounting any particular area.&lt;/p&gt;
+&lt;p&gt;It’s easy to become exposed to many technologies in a short time frame, which I have done. Now it’s up to me to determine my path. How can I best contribute to the tech world? Is it embedded software, back-end database design, software architecture, or even UI? Should I focus on Web Applications or Mobile friendly? Should I involve hardware into my creations or strictly software? &lt;/p&gt;
 
-&lt;p&gt;These are the questions I’m pondering as I determine what’s best for me and the larger technology community.&lt;/p&gt;
+&lt;p&gt;I’ll keep up with learning while I am looking for my first developer job.&lt;/p&gt;
 
 </description>
             <pubDate>Fri, 06 Mar 2015 02:00:00 -0600</pubDate>
